@@ -22,7 +22,7 @@
 `C:\Program Files (x86)\Arduino\libraries\` (Windows x64)  
 `C:\Program Files\Arduino\libraries\` (Windows x86)
 - **auto_trashcan2** - прошивка для Arduino, файлы в папках открыть в Arduino IDE (читай [FAQ](#chapter-5))
-- **XODtrashcan** - прошивка для Arduino, упрощённая версия для XOD из видео
+- **XODtrashcan** - прошивка для Arduino, упрощённая версия для [XOD](https://goo.gl/teWUBm) из видео
 
 <a id="chapter-2"></a>
 ## Схема обычной версии
