@@ -33,11 +33,11 @@
 
 <a id="chapter-3"></a>
 ## Материалы и компоненты
-* Arduino NANO http://ali.ski/POpMO
-* Датчик расстояния http://ali.ski/BOSn_x
-* Серво http://ali.ski/N8P0y
-* Батарейный отсек http://ali.ski/D4tPxC
-* Корпус http://ali.ski/GpYU7U
+* Arduino NANO https://ali.ski/d5FkY
+* Датчик расстояния https://ali.ski/QKvcH
+* Серво https://ali.ski/1dbBhy
+* Батарейный отсек https://ali.ski/XE04g7
+* Корпус https://ali.ski/wsM9Rw
 
 РАССЫПУХА
 * МОСФЕТ 
